@@ -31,11 +31,11 @@ In this project, I:
 
 ## 📝 Recommendations
 Based on the insights from the dashboard, I recommend:  
-1. **Focus marketing campaigns** on top customers and loyalty card users to increase retention.  
-2. **Expand U.S. sales strategies** while exploring opportunities to grow the market in Ireland and the UK.  
-3. **Promote dark roast coffee** as the flagship product, while experimenting with new blends to attract diverse preferences.  
-4. **Optimize packaging strategy** by ensuring smaller package sizes remain widely available, as they drive higher sales frequency.  
-5. **Leverage seasonal peaks** by aligning promotions and product launches with high-demand periods.  
+1. **Focusing marketing campaigns** on top customers and loyalty card users to increase retention.  
+2. **Expanding U.S. sales strategies** while exploring opportunities to grow the market in Ireland and the UK.  
+3. **Promoting dark roast coffee** as the flagship product, while experimenting with new blends to attract diverse preferences.  
+4. **Optimizing packaging strategy** by ensuring smaller package sizes remain widely available, as they drive higher sales frequency.  
+5. **Leveraging seasonal peaks** by aligning promotions and product launches with high-demand periods.  
 
 ---
 
