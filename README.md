@@ -15,6 +15,8 @@ In this project, I:
 <p align="center">
   <img src="CSD.PNG" alt="Coffee Sales Dashboard" width="850"/>
 </p>
+
+---
 ## 🔑 Key Insights
 - 📈 **Sales Trends**: Revenue shows fluctuations over time, with noticeable peaks in **mid-2021**.  
 - 🌍 **Regional Performance**: The **United States** leads in sales, followed by **Ireland** and the **United Kingdom**.  
