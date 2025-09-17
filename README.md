@@ -10,3 +10,8 @@ In this project, I:
 - Designed and built the dashboard in Power BI to enable interactive filtering by time, geography, roast type, package size, and loyalty card usage
 - Conducted exploratory analysis to uncover patterns such as seasonal sales peaks, regional performance differences, and product preferences
 - Communicated insights clearly to support **data-driven decision-making**  
+
+## 🖼️ Dashboard Preview
+<p align="center">
+  <img src="CSD.PNG" alt="Coffee Sales Dashboard" width="850"/>
+</p>
