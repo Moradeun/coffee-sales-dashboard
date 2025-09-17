@@ -20,7 +20,7 @@ In this project, I:
 ## 🔑 Key Insights
 -  **Sales Trends**: Revenue shows fluctuations over time, with noticeable peaks in **mid-2021**.  
 -  **Regional Performance**: The **United States** leads in sales, followed by **Ireland** and the **United Kingdom**.  
-- 🫘 **Product Preferences**:  
+-  **Product Preferences**:  
   - **Dark roast coffee** is the most popular across customers.  
   - Smaller package sizes (**0.2 kg and 0.5 kg**) sell more frequently.  
 -  **Customer Analysis**:  
@@ -45,5 +45,3 @@ Based on the insights from the dashboard, I recommend:
 
 ---
 
-## 👨‍💻 About Me
-This project reflects my skills in **data analysis, Excel dashboard design, and business storytelling**.  
