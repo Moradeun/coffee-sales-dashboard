@@ -18,12 +18,12 @@ In this project, I:
 
 ---
 ## 🔑 Key Insights
-- 📈 **Sales Trends**: Revenue shows fluctuations over time, with noticeable peaks in **mid-2021**.  
-- 🌍 **Regional Performance**: The **United States** leads in sales, followed by **Ireland** and the **United Kingdom**.  
+-  **Sales Trends**: Revenue shows fluctuations over time, with noticeable peaks in **mid-2021**.  
+-  **Regional Performance**: The **United States** leads in sales, followed by **Ireland** and the **United Kingdom**.  
 - 🫘 **Product Preferences**:  
   - **Dark roast coffee** is the most popular across customers.  
   - Smaller package sizes (**0.2 kg and 0.5 kg**) sell more frequently.  
-- 👥 **Customer Analysis**:  
+-  **Customer Analysis**:  
   - A small group of **top customers** contributes a large portion of total sales.  
   - **Loyalty card users** tend to make higher and more consistent purchases.  
 
